@@ -42,6 +42,7 @@ As a drive by kill I think it also helps the resillience of the system. For big 
 * [slock.it Incubed Minimum Verification Client (TypeScript) Github repository](https://github.com/slockit/in3)
 * [slock.it Incubed Documentation](https://github.com/slockit/in3#documentation)
 * [slock.it Incubed Documentation - Release 1.2 - June 24, 2019](https://buildmedia.readthedocs.org/media/pdf/in3/stable/in3.pdf)
+* [slock.it Incubed Registry Server Solidity Smart Contract Code deployed on Mainnet](https://etherscan.io/address/0x2736d225f85740f42d17987100dc8d58e9e16252#code)
 * [slock.it Incubed deployment addresses on various chains](https://github.com/slockit/in3#chains)
   * Note: Repeated in Section 2.6 of the slock.it Incubed Documentation
 * [Ethereum JSON-RPC Specification Methods](https://github.com/ethereum/wiki/wiki/JSON-RPC)
