@@ -2,12 +2,10 @@
 
 ## Table of Contents
 
-* [Intro](#chapter-5f0881)
-* [Links](#chapter-b1b53c)
+* [Intro](#intro)
+* [Links](#links)
 
-Note: Generate a new chapter with `openssl rand -hex 3`
-
-## Intro <a id="chapter-5f0881"></a>
+## Intro <a id="intro"></a>
 
 Incubed Client with [Tor (Onion Services)](https://2019.www.torproject.org/docs/onion-services.html.en) support (hackathon project)
 
@@ -37,7 +35,7 @@ Then we need to modify the client so it can filter for these onion adresses and 
 
 As a drive by kill I think it also helps the resillience of the system. For big actors (like states) it is actually not that hard to attack a service like infura as it is well known and e.g. make a lot of Etherum dApps unusable this way. But it is quite hard to take down onion services as Silk Road nicely showed. Just instead of sending interesting physical packets - in this case we use it to transport interesting digital packets only.
 
-## Links <a id="chapter-b1b53c"></a>
+## Links <a id="links"></a>
 
 ### Important References
 
