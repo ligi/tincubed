@@ -1,6 +1,6 @@
 # tincubed
 
-# Table of Contents
+## Table of Contents
 
 * [Intro](#chapter-5f0881)
 * [Links](#chapter-b1b53c)
